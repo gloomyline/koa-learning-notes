@@ -1,0 +1,232 @@
+{
+  "keys": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\config\\config.default.js",
+  "view": {
+    "defaultViewEngine": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\config\\config.default.js",
+    "mapping": {
+      ".tpl": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\config\\config.default.js"
+    },
+    "root": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-view@1.1.2@egg-view\\config\\config.default.js",
+    "cache": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-view@1.1.2@egg-view\\config\\config.default.js",
+    "defaultExtension": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-view@1.1.2@egg-view\\config\\config.default.js"
+  },
+  "news": {
+    "pageSize": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\config\\config.default.js",
+    "serverUrl": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\config\\config.default.js"
+  },
+  "middleware": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\config\\config.default.js",
+  "robot": {
+    "ua": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-onerror@1.5.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-onerror@1.5.0@egg-onerror\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-session@2.1.1@egg-session\\config\\config.default.js",
+    "key": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-session@2.1.1@egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-session@2.1.1@egg-session\\config\\config.default.js",
+    "encrypt": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-session@2.1.1@egg-session\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-i18n@1.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-i18n@1.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-i18n@1.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-i18n@1.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-i18n@1.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-watcher@2.1.3@egg-watcher\\config\\config.unittest.js",
+    "eventSources": {
+      "default": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-watcher@2.1.3@egg-watcher\\config\\config.default.js",
+      "development": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-watcher@2.1.3@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "multipart": {
+    "autoFields": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-multipart@1.5.0@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-multipart@1.5.0@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-multipart@1.5.0@egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-multipart@1.5.0@egg-multipart\\config\\config.default.js",
+    "fields": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-multipart@1.5.0@egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-multipart@1.5.0@egg-multipart\\config\\config.default.js",
+    "files": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-multipart@1.5.0@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-multipart@1.5.0@egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-multipart@1.5.0@egg-multipart\\config\\config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js",
+    "csrf": {
+      "enable": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js",
+      "useSession": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js",
+      "ignoreJSON": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js",
+      "cookieName": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js",
+      "sessionName": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js",
+      "headerName": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js",
+      "bodyName": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js",
+      "queryName": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js"
+    },
+    "xframe": {
+      "enable": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js",
+      "value": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js",
+      "maxAge": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js",
+      "value": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js",
+      "policy": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-security@1.12.1@egg-security\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-logrotator@2.2.3@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-logrotator@2.2.3@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-logrotator@2.2.3@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-logrotator@2.2.3@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-logrotator@2.2.3@egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-logrotator@2.2.3@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-static@1.4.1@egg-static\\config\\config.default.js",
+    "dir": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-static@1.4.1@egg-static\\config\\config.default.js",
+    "dynamic": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-static@1.4.1@egg-static\\config\\config.default.js",
+    "preload": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-static@1.4.1@egg-static\\config\\config.default.js",
+    "buffer": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-static@1.4.1@egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-static@1.4.1@egg-static\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-jsonp@1.1.2@egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-jsonp@1.1.2@egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-jsonp@1.1.2@egg-jsonp\\config\\config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-view-nunjucks@2.1.3@egg-view-nunjucks\\config\\config.default.js",
+    "throwOnUndefined": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-view-nunjucks@2.1.3@egg-view-nunjucks\\config\\config.default.js",
+    "trimBlocks": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-view-nunjucks@2.1.3@egg-view-nunjucks\\config\\config.default.js",
+    "lstripBlocks": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-view-nunjucks@2.1.3@egg-view-nunjucks\\config\\config.default.js",
+    "cache": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg-view-nunjucks@2.1.3@egg-view-nunjucks\\config\\config.default.js"
+  },
+  "env": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+  "name": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+  "proxy": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+  "ipHeaders": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+  "hostHeaders": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "version": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "description": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "main": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "scripts": {
+      "dev": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+      "test": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js"
+    },
+    "keywords": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "author": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "license": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+      "egg-view-nunjucks": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+      "egg-mock": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+  "HOME": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+  "rundir": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "notFound": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "sitefile": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "middlewares": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "httpClient": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "encoding": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "formLimit": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "jsonLimit": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "strict": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+      "depth": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+      "parameterLimit": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js"
+    }
+  },
+  "logger": {
+    "dir": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "encoding": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "env": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "level": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "consoleLevel": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.unittest.js",
+    "disableConsoleAfterReady": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "outputJSON": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "buffer": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.unittest.js",
+    "appLogName": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "coreLogName": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "agentLogName": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "errorLogName": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "coreLogger": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "dnsCacheMaxAge": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+      "maxSockets": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+      "freeSocketKeepAliveTimeout": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+      "maxSockets": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js"
+    }
+  },
+  "coreMiddleware": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+      "port": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js",
+      "hostname": "E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\node_modules\\_egg@1.7.0@egg\\config\\config.default.js"
+    }
+  }
+}
