@@ -1,1 +1,4 @@
+# egg-example
 /framework/egg-example/node_modules/
+/framework/egg-example/logs/*.logs
+/framework/egg-example/run/
