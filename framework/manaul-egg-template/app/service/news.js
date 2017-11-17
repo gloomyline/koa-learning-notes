@@ -1,0 +1,33 @@
+/*
+* @Author: AlanWang
+* @Date:   2017-11-15 14:42:30
+* @Last Modified by:   AlanWang
+* @Last Modified time: 2017-11-16 17:19:32
+*/
+
+class NewsService extends require('./base') {
+  async list (page=1) {
+    // read config
+    const { serverUrl, pageSize } = this.config.news
+
+    // use built-in http client to GET hacker news api
+    const { data: idList } = await this.ctx.curl(`${ serverUrl }/topstories.json`, {
+      data: {
+        orderBy: '"$key"',
+        startAt: `"${pageSize * (page - 1)}"`,
+        endAt: `${pageSize * page - 1}`
+      },
+      dataType: 'json'
+    })
+
+    // parallel GET detail
+    const newsList = await Promise.all(Object.keys(idList).map(key => {
+      const url = `${ serverUrl }/item/${ idList[key] }.json`
+      return this.ctx.curl(url, { dataType: 'json' })
+    }))
+
+    return newsList.map(res => res.data)
+  }
+}
+
+module.exports = NewsService

@@ -1,0 +1,26 @@
+{
+  "name": "manaul-egg-template",
+  "version": "1.0.0",
+  "description": "Manaul egg template is inspired by egg get started",
+  "main": "index.js",
+  "scripts": {
+    "test": "egg-bin test --full-trace",
+    "dev": "egg-bin dev -p 9999"
+  },
+  "keywords": [
+    "Egg",
+    "Framework",
+    "Framtework"
+  ],
+  "author": "Alan",
+  "license": "ISC",
+  "dependencies": {
+    "egg": "^1.11.0",
+    "egg-view-nunjucks": "^2.1.4",
+    "moment": "^2.19.2"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.3.5",
+    "egg-mock": "^3.13.1"
+  }
+}

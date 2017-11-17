@@ -2,3 +2,12 @@
 /framework/egg-example/node_modules/
 /framework/egg-example/logs/*.logs
 /framework/egg-example/run/
+
+# manaul-egg-template
+/framework/manaul-egg-template/node_modules/
+/framework/manaul-egg-template/logs/
+/framework/manaul-egg-template/run/
+
+# .gitignore
+..gitignore.un~
+.gitignore~
