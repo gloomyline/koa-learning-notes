@@ -1,2 +1,0 @@
-2017-08-28 11:14:23,114 INFO 4608 [egg:logger] init all loggers with options: {"dir":"E:\\localRepositories\\interests\\koa-learning-notes\\framework\\egg-example\\logs\\egg-example","encoding":"utf8","env":"unittest","level":"INFO","consoleLevel":"WARN","disableConsoleAfterReady":false,"outputJSON":false,"buffer":false,"appLogName":"egg-example-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{},"type":"agent"}
-2017-08-28 11:14:23,185 INFO 4608 [egg-watcher:agent] watcher start success
