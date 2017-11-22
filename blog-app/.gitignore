@@ -1,0 +1,8 @@
+# logs
+logs/
+
+# runtime files
+run/
+
+# dependencies
+node_modules/
