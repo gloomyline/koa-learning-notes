@@ -8,7 +8,11 @@
 /framework/manaul-egg-template/logs/**/*.logs
 /framework/manaul-egg-template/run/
 
+# examples
+examples/
+
 # .gitignore
 ..gitignore.un~
 .gitignore~
-*
+
+/framework/manaul-egg-template/logs

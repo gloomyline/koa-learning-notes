@@ -1,0 +1,38 @@
+{
+  "name": "koa-learning-notes",
+  "version": "1.0.0",
+  "description": "Blog system powered by egg a awesome nodejs framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "egg-bin test --full-trace",
+    "dev": "egg-bin dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gloomyline/koa-learning-notes.git"
+  },
+  "keywords": [
+    "web-app",
+    "egg",
+    "vue",
+    "ssr",
+    "spa",
+    "wpa"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gloomyline/koa-learning-notes/issues"
+  },
+  "homepage": "https://github.com/gloomyline/koa-learning-notes#readme",
+  "dependencies": {
+    "egg": "^1.11.0",
+    "egg-mongoose": "^2.1.1",
+    "egg-validate": "^1.0.0",
+    "egg-view-nunjucks": "^2.1.4"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.3.5",
+    "egg-mock": "^3.13.1"
+  }
+}
